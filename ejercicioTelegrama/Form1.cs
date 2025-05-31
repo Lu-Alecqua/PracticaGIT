@@ -21,6 +21,7 @@ namespace ejercicioTelegrama
         {
                 string textoTelegrama;
                 char tipoTelegrama = 'o';
+                
                 int numPalabras = 0;
                 double coste;
 
